@@ -1,0 +1,15 @@
+C:\Projects\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Projects\Deneme\Deneme\bin\Debug\Deneme.exe
+C:\Projects\Deneme\Deneme\bin\Debug\Deneme.pdb
+C:\Projects\Deneme\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Projects\Deneme\Deneme\obj\Debug\Deneme.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Deneme\Deneme\obj\Debug\Deneme.Form1.resources
+C:\Projects\Deneme\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+C:\Projects\Deneme\Deneme\obj\Debug\Deneme.csproj.GenerateResource.cache
+C:\Projects\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Projects\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Projects\Deneme\Deneme\obj\Debug\Deneme.pdb
+C:\Projects\Deneme\Deneme\bin\Debug\Deneme.exe.manifest
+C:\Projects\Deneme\Deneme\bin\Debug\Deneme.application
+C:\Projects\Deneme\Deneme\obj\Debug\Deneme.exe.manifest
+C:\Projects\Deneme\Deneme\obj\Debug\Deneme.application
